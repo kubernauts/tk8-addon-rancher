@@ -33,7 +33,7 @@ You need more information
 ./tk* addon --help
 ```
 
-## Deployment
+## Development
 
 Create your own addons for TK8 is easy as well.
 
